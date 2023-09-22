@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MargiPatel
 - 🌱 I’m currently working on BPM MI project.
-- 📫 Please reach out to me at margi.patel@bigpicturemedical.com
+- 📫 Please reach out to me at margi.patel@bigpicturemedical.com for any questions.
 
 <!---
 MargiPatelBPM/MargiPatelBPM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
